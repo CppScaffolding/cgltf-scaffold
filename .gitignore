@@ -1,0 +1,4 @@
+## .gitignore file for cgltf-scaffold
+
+## ignore folder fetched through gclient
+cgltf
